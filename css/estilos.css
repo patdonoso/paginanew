@@ -1,6 +1,9 @@
-*{
+img{
     margin: 0;
     padding:20;
+    float: right;
+    height: 200;
+    width: 200;
 }
 
 body{
